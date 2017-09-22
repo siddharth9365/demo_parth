@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="spring-mvc-java-config-demo">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/common/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/config/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/controller/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/dao/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/dao/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/model/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/service/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/service/src/test/java"/>
+        <property name="context-root" value="spring-mvc-java-config-demo"/>
+        <property name="java-output-path" value="/spring-mvc-java-config-demo/bin"/>
+    </wb-module>
+</project-modules>
